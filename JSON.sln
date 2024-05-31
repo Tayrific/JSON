@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicExpando", "ExpandoOb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiseDataset", "SerialiseDataset\SerialiseDataset.csproj", "{C0416CC0-DFF0-4166-A677-811C9C50F6F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreJsonConvert", "MoreJsonConvert\MoreJsonConvert.csproj", "{09583A42-010E-4B31-AE74-E6E50DE26C2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C0416CC0-DFF0-4166-A677-811C9C50F6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0416CC0-DFF0-4166-A677-811C9C50F6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0416CC0-DFF0-4166-A677-811C9C50F6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09583A42-010E-4B31-AE74-E6E50DE26C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09583A42-010E-4B31-AE74-E6E50DE26C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09583A42-010E-4B31-AE74-E6E50DE26C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09583A42-010E-4B31-AE74-E6E50DE26C2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
