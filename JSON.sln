@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiseCollection", "Seri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiseDictionary", "SerialiseDictionary\SerialiseDictionary.csproj", "{7CEDA4CD-1063-422E-90F5-FFD6E2443B91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiseJSONToFile", "SerialiseJSONToFile\SerialiseJSONToFile.csproj", "{B9B55F73-E6E6-4DCC-8E0C-F378A63BEF05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7CEDA4CD-1063-422E-90F5-FFD6E2443B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CEDA4CD-1063-422E-90F5-FFD6E2443B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CEDA4CD-1063-422E-90F5-FFD6E2443B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B55F73-E6E6-4DCC-8E0C-F378A63BEF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B55F73-E6E6-4DCC-8E0C-F378A63BEF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B55F73-E6E6-4DCC-8E0C-F378A63BEF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B55F73-E6E6-4DCC-8E0C-F378A63BEF05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
