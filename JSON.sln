@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiseDictionary", "Seri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiseJSONToFile", "SerialiseJSONToFile\SerialiseJSONToFile.csproj", "{B9B55F73-E6E6-4DCC-8E0C-F378A63BEF05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiseWithJsonConverters", "SerialiseWithJsonConverters\SerialiseWithJsonConverters.csproj", "{D664F790-8CA8-43C2-A46C-69C39937B20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicExpando", "ExpandoObject\DynamicExpando.csproj", "{A80D35DB-BE77-4684-8545-AC7B8F3C0C4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B9B55F73-E6E6-4DCC-8E0C-F378A63BEF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9B55F73-E6E6-4DCC-8E0C-F378A63BEF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9B55F73-E6E6-4DCC-8E0C-F378A63BEF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D664F790-8CA8-43C2-A46C-69C39937B20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D664F790-8CA8-43C2-A46C-69C39937B20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D664F790-8CA8-43C2-A46C-69C39937B20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D664F790-8CA8-43C2-A46C-69C39937B20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80D35DB-BE77-4684-8545-AC7B8F3C0C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80D35DB-BE77-4684-8545-AC7B8F3C0C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80D35DB-BE77-4684-8545-AC7B8F3C0C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80D35DB-BE77-4684-8545-AC7B8F3C0C4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
